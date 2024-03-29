@@ -1,7 +1,10 @@
 def palindrome():
     s=input("Enter string : ")
     if s==s[::-1]:
-        print("yes palindrome")
+        print(s,"is a palindrome")
     else:
-        print("No its not")
+        print(s,"is not a palindrome")
+        
+print("=====Palindrome checker=====")
+    
 palindrome()
