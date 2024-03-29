@@ -8,3 +8,5 @@ def palindrome():
 print("=====Palindrome checker=====")
     
 palindrome()
+
+#added
